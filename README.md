@@ -63,9 +63,15 @@ Since, there are collaborations possible b/w different departments as well, henc
 - each user can be a member of multiple organizations.
 - Sub-groups with-in an organisation are known as _Teams_
 - Organisation Account creation is free on GitHub with limited features. Full feature are exposed when using _GitHub Team_
+- A subset of personal accounts can be given the role of organization owner, which allows those people to granularly manage access to the organization's resources using sophisticated security and administrative features.
+- organization members may be assigned a variety of _roles_ that grant different levels of access to the organization and its data
+- Organisation can also be managed programmatically
+- 
 
 **Features of Organisation Accounts**
-... tbc
+Further reading...
+https://docs.github.com/en/organizations/keeping-your-organization-secure
+https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/best-practices-for-organizations
 
 **Enterprise Accounts**
 _GitHub Enterprise Cloud_ and _GitHub Enterprise Server_ include enterprise accounts, which allow administrators to centrally manage policy and billing for multiple organizations and enable innersourcing between the organizations.
