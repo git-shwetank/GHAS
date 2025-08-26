@@ -52,7 +52,20 @@ Since, there are collaborations possible b/w different departments as well, henc
 **There are two types of user account:**
 - Personal accounts (accounts created for personal use by individual)
 - Managed user accounts (account created for individual by an enterprise on GitHub Enterprise Cloud)
-  
+
+**Organisation Accounts:**
+- instead of individual owning the resources like in User Accounts, the abstract organisation entity own the resources such as repositories and controls.
+- group of personal accounts linked to an organisation.
+- each user can be a member of multiple organizations.
+- Sub-groups with-in an organisation are known as _Teams_
+- Organisation Account creation is free on GitHub with limited features. Full feature are exposed when using _GitHub Team_
+
+**Features of Organisation Accounts**
+... tbc
+
+**Enterprise Accounts**
+_GitHub Enterprise Cloud_ and _GitHub Enterprise Server_ include enterprise accounts, which allow administrators to centrally manage policy and billing for multiple organizations and enable innersourcing between the organizations.
+
 **What is-**
 1. GitHub Team 
 2. GitHub Enterprise Cloud
