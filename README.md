@@ -37,6 +37,10 @@ Products
   5. No insecure dependency use are allowed to Merge (PR workflow)
 
 # How to enable Secret Scanning, Code Scanning and Dependabot alert   
+
+tbc ...
+
+# GitHub Ecosystem Basics
 **Git Organisation**
 Organizations are shared accounts where _businesses_ and _open-source projects_ can **collaborate** across many projects at once, with _sophisticated security_ and _administrative features_.
 
