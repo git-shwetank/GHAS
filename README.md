@@ -50,8 +50,8 @@ As there can be multiple contributors and teams to a Department, hence a departm
 Since, there are collaborations possible b/w different departments as well, hence Enterprise enables collaboration of these Organisations.
 
 **There are two types of user account:**
-- Personal accounts
-- Managed user accounts
+- Personal accounts (accounts created for personal use by individual)
+- Managed user accounts (account created for individual by an enterprise on GitHub Enterprise Cloud)
   
 **What is-**
 1. GitHub Team 
